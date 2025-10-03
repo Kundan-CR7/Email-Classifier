@@ -1,0 +1,135 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<!-- Icon created by bgtti. Github: https://github.com/bgtti -->
+<!-- License: public domain -->
+
+<svg 
+    version="1.0" 
+    xmlns="http://www.w3.org/2000/svg"
+    width="582.000000pt" 
+    height="582.000000pt" 
+    viewBox="0 0 582.000000 582.000000"
+    preserveAspectRatio="xMidYMid meet">
+
+    <g 
+        transform="translate(0.000000,582.000000) scale(0.100000,-0.100000)"
+        fill="#000000" 
+        stroke="none">
+
+        <!-- Background color/shape of the entire icon -->
+
+        <!-- (Comment out the path bellow to get a transparent background or change the fill color of the element) -->
+        <path 
+            d="M320 5306 c-116 -26 -202 -95 -253 -204 l-32 -67 0 -1535 0 -1535 27
+            -57 c37 -79 98 -142 177 -181 l66 -32 1294 -5 1294 -5 22 -111 c29 -144 47
+            -198 106 -317 138 -277 355 -494 634 -632 228 -113 390 -153 650 -162 146 -5
+            188 -2 299 17 705 120 1206 679 1206 1346 0 464 -253 892 -678 1148 -171 103
+            -418 184 -615 202 l-77 7 0 901 c0 781 -2 910 -15 961 -28 106 -98 189 -204
+            239 l-66 31 -1890 2 c-1466 1 -1902 -1 -1945 -11z"
+            style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.18300009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+        />
+
+        <!-- Background color/shape of the circle -->
+        <!-- (Comment out the path bellow to get a transparent circle background or change the fill color of the element) -->
+
+        <path 
+            d="
+            M 320, 0
+            m 5280, 1800
+            a 1300,1300 0 1,0 -2600,0
+            a 1300,1300 0 1,0  2600,0
+            "
+            style="opacity:1;fill:#D4B20B;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.18300009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+        />
+
+        <!-- Main icon body -->
+
+        <path 
+            d="M320 5306 c-116 -26 -202 -95 -253 -204 l-32 -67 0 -1535 0 -1535 27
+            -57 c37 -79 98 -142 177 -181 l66 -32 1294 -5 1294 -5 22 -111 c29 -144 47
+            -198 106 -317 138 -277 355 -494 634 -632 228 -113 390 -153 650 -162 146 -5
+            188 -2 299 17 705 120 1206 679 1206 1346 0 464 -253 892 -678 1148 -171 103
+            -418 184 -615 202 l-77 7 0 901 c0 781 -2 910 -15 961 -28 106 -98 189 -204
+            239 l-66 31 -1890 2 c-1466 1 -1902 -1 -1945 -11z m3700 -250 c0 -8 -1753
+            -2091 -1760 -2091 -7 0 -1760 2083 -1760 2091 0 2 792 4 1760 4 968 0 1760 -2
+            1760 -4z m-3025 -894 c389 -464 705 -845 704 -847 -313 -293 -1446 -1335
+            -1451 -1335 -5 0 -13 12 -18 26 -7 17 -9 551 -8 1513 3 1267 5 1490 17 1505
+            14 16 15 16 31 -1 10 -10 336 -397 725 -861z m3255 -71 l0 -898 -71 -7 c-246
+            -23 -527 -131 -728 -281 -54 -40 -102 -78 -105 -84 -4 -6 -14 -11 -22 -11 -9
+            0 -127 102 -262 227 -136 124 -253 231 -260 238 -12 11 85 128 1225 1483 112
+            133 208 240 214 237 5 -4 9 -352 9 -904z m-2252 -1124 c214 -255 216 -257 258
+            -257 48 0 75 16 109 63 45 64 297 362 305 362 4 0 108 -92 230 -205 123 -113
+            239 -218 257 -235 l34 -30 -45 -60 c-133 -176 -237 -440 -253 -642 l-6 -83
+            -1218 0 c-670 0 -1220 3 -1223 8 -4 7 1361 1280 1375 1281 3 1 83 -90 177
+            -202z m2552 2 c226 -33 432 -120 606 -255 288 -224 447 -540 447 -889 0 -748
+            -743 -1295 -1536 -1130 -257 54 -497 189 -672 377 -398 430 -398 1075 0 1506
+            286 309 716 455 1155 391z"
+        />
+
+        <!-- Letter S -->
+        <path 
+            d="M1327 4905 c-75 -26 -117 -85 -117 -162 0 -87 44 -130 172 -167 73
+            -21 100 -54 77 -94 -26 -47 -77 -48 -204 -7 -17 5 -24 -2 -43 -41 -27 -54 -26
+            -56 57 -80 67 -20 181 -15 234 10 71 35 104 112 86 198 -14 65 -58 102 -156
+            130 -91 27 -115 53 -89 93 14 21 24 25 67 25 27 0 65 -6 84 -14 l35 -15 20 46
+            c11 25 20 49 20 54 0 14 -100 39 -154 39 -28 -1 -68 -7 -89 -15z"
+            style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.18300009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+        />
+
+        <!-- Letter P -->
+        <path 
+            d="M1680 4631 l0 -281 65 0 65 0 0 90 0 90 46 0 c106 0 200 53 224 126
+            18 54 9 144 -19 182 -41 58 -70 66 -233 70 l-148 4 0 -281z m247 155 c22 -19
+            28 -32 28 -66 0 -57 -37 -90 -101 -90 l-44 0 0 90 0 90 44 0 c33 0 52 -6 73
+            -24z"
+            style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.18300009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+        />
+
+        <!-- Letter A -->
+        <path 
+            d="M2270 4907 c0 -2 -45 -126 -100 -277 -55 -150 -100 -274 -100 -276 0
+            -2 31 -4 69 -4 l70 0 16 55 16 55 102 0 103 0 18 -55 17 -55 70 0 c38 0 69 3
+            68 8 0 4 -44 129 -97 277 l-97 270 -78 3 c-42 2 -77 1 -77 -1z m140 -329 c0
+            -5 -29 -8 -65 -8 -44 0 -65 4 -65 12 0 7 14 56 32 110 l32 98 33 -102 c18 -57
+            33 -106 33 -110z"
+            style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.18300009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+        />
+
+        <!-- Letter M -->
+        <path 
+            d="M2690 4630 l0 -280 61 0 61 0 -4 213 -3 212 41 -120 c23 -66 56 -162
+            74 -212 l33 -93 52 0 53 0 16 43 c9 23 42 119 74 212 l57 170 -3 -212 -4 -213
+            66 0 66 0 0 280 0 281 -91 -3 -92 -3 -67 -195 c-38 -107 -70 -188 -73 -180 -3
+            8 -33 97 -68 198 l-62 182 -93 0 -94 0 0 -280z"
+            style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.18300009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+        />
+
+        <!-- Triangle: the fill color of the path bellow controls the color of the exclamation mark -->
+        <path 
+            d="M4322 2773 c-11 -16 -40 -62 -64 -103 -25 -41 -89 -147 -143 -235
+            -53 -88 -116 -191 -140 -230 -23 -38 -149 -245 -280 -460 -303 -496 -305 -500
+            -305 -522 0 -11 5 -24 12 -31 9 -9 237 -12 965 -12 l953 0 11 23 c9 19 4 34
+            -32 92 -290 478 -387 636 -504 830 -40 66 -116 192 -170 280 -54 88 -125 205
+            -158 260 -33 55 -67 108 -75 118 -22 25 -48 21 -70 -10z"
+            style="opacity:1;fill:#D4B20B;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.18300009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+        />
+
+        <!-- Triangle with 'hole' in exclamation mark shape -->
+        <!-- The fill color of the path bellow controls the color of the triangle -->
+        <path 
+            d="M4322 2773 c-11 -16 -40 -62 -64 -103 -25 -41 -89 -147 -143 -235
+            -53 -88 -116 -191 -140 -230 -23 -38 -149 -245 -280 -460 -303 -496 -305 -500
+            -305 -522 0 -11 5 -24 12 -31 9 -9 237 -12 965 -12 l953 0 11 23 c9 19 4 34
+            -32 92 -290 478 -387 636 -504 830 -40 66 -116 192 -170 280 -54 88 -125 205
+            -158 260 -33 55 -67 108 -75 118 -22 25 -48 21 -70 -10z m124 -534 c36 -22 64
+            -73 64 -117 0 -17 -16 -142 -35 -279 -19 -136 -35 -249 -35 -251 0 -1 -9 2
+            -20 8 -24 13 -77 16 -108 6 -15 -5 -24 -3 -27 6 -11 32 -75 476 -75 519 0 112
+            131 171 236 108z m-47 -690 c35 -12 61 -53 61 -94 0 -40 -50 -85 -95 -85 -27
+            0 -44 8 -66 29 -46 47 -34 116 25 145 38 19 35 19 75 5z"
+            style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.18300009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+        />
+
+    </g>
+</svg>
